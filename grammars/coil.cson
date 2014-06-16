@@ -1,0 +1,13 @@
+'fileTypes': [
+  'coil'
+]
+
+'name': 'Coil'
+
+'patterns': [
+  {
+    'include': 'source.jade'
+  }
+]
+
+'scopeName': 'source.coil'
